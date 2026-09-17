@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<rect width="800" height="500" rx="30" fill="#aeb4bd"/>
+<rect x="15" y="15" width="770" height="470" rx="25" fill="none" stroke="#082d58" stroke-width="10"/>
+<circle cx="400" cy="225" r="145" fill="#ffffffcc" stroke="#082d58" stroke-width="8"/>
+<text x="400" y="285" text-anchor="middle" font-family="Arial" font-size="150">🏎️</text>
+<rect x="190" y="410" width="420" height="58" rx="18" fill="#082d58"/>
+<text x="400" y="449" text-anchor="middle" font-family="Arial" font-size="29" font-weight="900" fill="white">go-karting</text>
+</svg>
