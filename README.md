@@ -1,6 +1,21 @@
-# Holiday Activities
-Gioco didattico per terza media basato esclusivamente sulle 15 espressioni dell'esercizio 1.
+# Holiday Activities – English Vocabulary Game
 
-Modalità: Look & Choose e Listen & Choose. Audio inglese britannico, 15 immagini locali, ordine casuale, punteggio e responsive.
+Gioco didattico interattivo di inglese sulle **Holiday Activities**.
 
-Per GitHub Pages caricare nella root `index.html`, `README.md` e l'intera cartella `images`.
+**Ideato e realizzato dal Prof. Marco Cigolotti.**
+
+## Contenuti
+Il gioco utilizza esclusivamente le 15 espressioni dell'esercizio 1 fornito:
+go snorkelling; go horse riding; stay at a campsite; buy souvenirs; eat local food; go sailing; visit museums; take photos; go sightseeing; go skiing; sleep in a tent; go windsurfing; go-karting; go scuba diving; go shopping.
+
+## Modalità
+- Look & Choose: immagine → espressione
+- Listen & Choose: audio → immagine
+- pronuncia inglese britannica
+- 15 immagini locali
+- ordine casuale
+- punteggio e streak
+- compatibile con PC, tablet e smartphone
+
+## GitHub Pages
+Caricare `index.html`, `README.md` e l'intera cartella `images` nella root del repository.
